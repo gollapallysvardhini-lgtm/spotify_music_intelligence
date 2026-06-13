@@ -102,6 +102,3 @@ The objective of this project is to apply data analytics and machine learning te
 * Real-time music analytics
 * User authentication and profile management
 
-## Author
-
-Developed as a Spotify Music Intelligence and Data Analytics project using Python, Streamlit, and Machine Learning.
